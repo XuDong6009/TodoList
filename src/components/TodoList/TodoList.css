@@ -1,0 +1,13 @@
+.todoMain .title {
+    font-weight: 700;
+    margin-top: 10px;
+}
+.todoMain  li {
+    margin-top: 10px;
+}
+
+.todoMain  li label {
+    font-size: 18px;
+    display: inline-block;
+    min-width: 150px;
+}

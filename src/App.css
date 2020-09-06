@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+.App header {
+  height: 50px;
+  background: #3059a5fa;
+}
+.App header h1 {
+  width: 800px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+main {
+  width: 800px;
+  margin: 25px auto 0;
+}
+
